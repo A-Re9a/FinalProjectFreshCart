@@ -24,7 +24,7 @@ export default function Address() {
         },
             {
                 headers: { token: localStorage.getItem('token') },
-                params: { url: "http://localhost:5173" }
+                params: { url: "https://a-re9a.github.io" }
             }
 
         )
